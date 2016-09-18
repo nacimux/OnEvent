@@ -1,0 +1,29 @@
+{
+  "name": "onevent",
+  "version": "0.7.0",
+  "description": "Tiny eventEmitter library",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+  "node": ">=4.2.4"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacimux/OnEvent.git"
+  },
+  "keywords": [
+    "javascript",
+    "eventEmitter"
+  ],
+  "author": "Nacim Idjakirène",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nacimux/OnEvent/issues"
+  },
+  "homepage": "https://github.com/nacimux/OnEvent#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
